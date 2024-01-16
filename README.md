@@ -13,6 +13,6 @@ Stuff We made in this
   
 
 Here is an image that shows an windows 11 kvm running on my samsung z flip3 5g
-![image](https://github.com/PortKVM/samsung-flip3-5g-KVMport/assets/135502425/9c63f3d9-18a8-4392-8cda-cbc002177799)
+![image](https://discord.com/channels/1190710304804442183/1190710304804442186/1191729898176393286)
 
 
