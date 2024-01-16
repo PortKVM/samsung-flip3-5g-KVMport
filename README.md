@@ -2,7 +2,7 @@
 The Samsung Flip3 5G Port of KVM (Beta and not fully released)
 
 Limts:
-- You cant run vms with more than 8GB RAM, 4 cores and 512GB Storage
+- You cant run vms with more than 8GB RAM, 4 cores and 512GB Storage. Also the Base Clockspeed is locked to 2.71GHz to avoid burning your phone
 - You can only run 6 vms because the phone itself has 6core cpu
 - Internet works only NAT
 - No Bluetooth (Seriously)
