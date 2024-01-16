@@ -1,3 +1,5 @@
+This port was by Katy (Github: @windows11-on-web | Email: idkalone2019+portkvm@gmail.com)
+
 # Samsung Flip3 5G KVM Port
 The Samsung Flip3 5G Port of KVM (Beta and not fully released)
 
