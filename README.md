@@ -13,7 +13,6 @@ Stuff We made in this
   
 
 Here is an image that shows an windows 11 kvm running on my samsung z flip3 5g
-(https://media.discordapp.net/attachments/1190710304804442186/1191729897996030062/image0.jpg?ex=65b8f4f4&is=65a67ff4&hm=0bc407003654634ea72e8dea05cbaa16ea8af0848b5b5534e1f44fa97f545b0a&=&format=webp&width=246&height=600)
 
 ![image](https://media.discordapp.net/attachments/1190710304804442186/1191729897996030062/image0.jpg?ex=65b8f4f4&is=65a67ff4&hm=0bc407003654634ea72e8dea05cbaa16ea8af0848b5b5534e1f44fa97f545b0a&=&format=webp&width=246&height=600)
 
